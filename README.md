@@ -2,6 +2,8 @@
 
 Turn a single keyword or problem into a full startup concept — complete with name, pitch, branding, logo, and MVP features. Built with OpenAI + Streamlit.
 
+![App Screenshot](screenshot.png)
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-startup-idea-generator-3wfbxmhjzdmtehqofqtx8x.streamlit.app)
 
 👉 **Try it live:**
